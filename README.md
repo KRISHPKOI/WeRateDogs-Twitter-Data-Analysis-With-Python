@@ -6,8 +6,8 @@ In this project I downloaded data manually and programmatically from URL using R
 #### Files Related to this Project 
 - WeRateDogs_Data_Wrangling_Python.ipynb <- This is the main file that has the whole analysis of data.
 - Wrangle_act.pdf <- This file contains the summary of data after analysis is done
-- Wrangle_report.pdf <- This file contains the process of gathering, accessing and cleaning data. It also contains the challenges I facede during ETL.
-- image_predictions.tsv <- Image prediction data downloaded programatically using requests library.
+- Wrangle_report.pdf <- This file contains the process of gathering, accessing and cleaning data. It also contains the challenges I faced during ETL.
+- image_predictions.tsv <- Image prediction data downloaded programmatically using requests library.
 - tweet_json.txt <- text data downloaded from tweeter using tweepy library.
 - twitter_archive_master.csv <- Final data set after cleaning/merging/transferring. 
 
