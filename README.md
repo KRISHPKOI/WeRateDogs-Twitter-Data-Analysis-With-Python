@@ -11,7 +11,7 @@ I downloaded data manually and programmatically from URL using Request library. 
 - Wrangle_report.pdf <- This file contains the process of gathering, accessing and cleaning data. It also contains the challenges I faced during ETL.
 - image_predictions.tsv <- Image prediction data downloaded programmatically using requests library.
 - tweet_json.txt <- Text data downloaded from tweeter using tweepy library.
-- twitter_archive_master.csv <- Final data set after cleaning/merging/transferring.
+- twitter_archive_master.csv <- Final data set after cleaning/merging/transferring..
 
 #### Python Libraries used
 - Pandas
