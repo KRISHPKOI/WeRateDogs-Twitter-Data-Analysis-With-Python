@@ -2,7 +2,7 @@
 #### About the Project
 
 This project is a part of Data Analyst Nanodegree. Data Wrangling is the main task in this project.
-I downloaded data manually and programmatically from URL using Request library. Using the tweet IDs in the WeRateDogs Twitter archive, queried the Twitter API for each tweet's JSON data using Python's Tweepy library and stored each tweet's entire set of JSON data in a file called tweet_json.txt file. Wrote each tweet's JSON data into its own line. Then read this .txt file line by line and converted into a DataFrame using Pandas library. Gathered all data in variety of formats, assessed its quality and tidiness then cleaned it. Visualized data to find trend on them.
+I downloaded data manually and programmatically from URL using Request library. Using the tweet IDs in the WeRateDogs Twitter archive, queried the Twitter API for each tweet's JSON data using Python's Tweepy library and stored each tweet's entire set of JSON data in a file called tweet_json.txt file. Wrote each tweet's JSON data into its own line. Then read this .txt file line by line and converted into a DataFrame using Pandas library. Gathered all data sets in variety of formats, assessed its quality and tidiness then cleaned it. Visualized data to find trend on them.
 
 #### Files Related to this Project
 
