@@ -15,7 +15,7 @@ I downloaded data manually and programmatically from URL using Request library. 
 
 #### Python Libraries used
 - Pandas
-- Numpy
+- NumPy
 - json
 - requests
 - tweepy
