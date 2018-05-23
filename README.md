@@ -24,5 +24,4 @@ I downloaded data manually and programmatically from URL using Request library. 
 - matplotlib
 - seaborn
 
-
-[act_report.pdf](https://github.com/KRISHPKOI/WeRateDogs-Twitter-Data-Analysis-With-Python/files/2033106/act_report.pdf)
+![act_report](https://user-images.githubusercontent.com/36382385/40455276-3e868346-5eba-11e8-9115-6bacae9124d1.png)
