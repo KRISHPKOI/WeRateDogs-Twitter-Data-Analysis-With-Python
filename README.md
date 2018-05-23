@@ -23,5 +23,3 @@ I downloaded data manually and programmatically from URL using Request library. 
 - warnings
 - matplotlib
 - seaborn
-
-![act_report](https://user-images.githubusercontent.com/36382385/40455276-3e868346-5eba-11e8-9115-6bacae9124d1.png)
