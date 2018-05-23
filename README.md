@@ -23,3 +23,6 @@ I downloaded data manually and programmatically from URL using Request library. 
 - warnings
 - matplotlib
 - seaborn
+
+
+[act_report.pdf](https://github.com/KRISHPKOI/WeRateDogs-Twitter-Data-Analysis-With-Python/files/2033106/act_report.pdf)
